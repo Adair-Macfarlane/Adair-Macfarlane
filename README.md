@@ -28,6 +28,7 @@
 
 ### Want to know more?
 > If you would like know more about me please feel free to use the links below to either contact me or read up about me.
+> 
 > [LinkIn profile](www.linkedin.com/in/adair-macfarlane-972b258)
 > 
 > [Email me](mailto:info@am-website-designs.com?subject=Contact%20via%20GitHub)
