@@ -19,7 +19,7 @@
 > + Creation of social and business platforms - FaceBook, Instagram, TikTok, Google/Yell business profile, etc.
 > + Setting up IT devices to have access to the above services.
 > + Consult on appropriate technology solutions.
-> [AM-Website-Designs website](www.am-website-designs.com)
+
 
 ### What I am learning and why
 > Currently I am carrying out a course in cloud web development. Historically I have used a front end software to build websites for
@@ -29,4 +29,7 @@
 ### Want to know more?
 > If you would like know more about me please feel free to use the links below to either contact me or read up about me.
 > [LinkIn profile](www.linkedin.com/in/adair-macfarlane-972b258)
+> 
 > [Email me](mailto:info@am-website-designs.com?subject=Contact%20via%20GitHub)
+>
+> [AM-Website-Designs website](www.am-website-designs.com)
