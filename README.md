@@ -19,7 +19,6 @@
 > + Creation of social and business platforms - FaceBook, Instagram, TikTok, Google/Yell business profile, etc.
 > + Setting up IT devices to have access to the above services.
 > + Consult on appropriate technology solutions.
-
 > [AM-Website-Designs website](www.am-website-designs.com)
 
 ### What I am learning and why
