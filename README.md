@@ -2,10 +2,10 @@
 
 ### About Me
 > I have always been interested in tech, my love for technology has taken me into many different career paths throughout my life,
-> from vehicle anti hi-jack devices to website development. I am fundimentally facinated with the advancement of technology and
+> from vehicle anti hi-jack devices to website development. I am fundamentally fascinated with the advancement of technology and
 > the creation of new things. I am driven by the desire to make things work and I am always excited to learn new skills that enable
 > me to do just that.
-> Whether it is being involed in designing hardware devices, creating processes or designing websites I enjoy getting stuck in and
+> Whether it is being involved in designing hardware devices, creating processes or designing websites I enjoy getting stuck in and
 > doing everything I can to help produce a great outcome.
 
 ### Currently Working On
